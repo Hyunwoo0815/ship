@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ship.avopt.xyz/sitemap.xml
+
+#DaumWebMasterTool:030810f85f676c69ea8ebb2101e0139d00adc7bcd999f9aa1317ff51980d7445:1M5/FqJ8NuMbKOhP77d7Rw==
